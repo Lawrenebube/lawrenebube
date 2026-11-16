@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ebube 👋
 
-<!--
-**Lawrenebube/lawrenebube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior frontend developer based in Lagos, Nigeria. Electronic Engineering graduate (UNN).
+I build clean, responsive web apps and I'm open to **remote or hybrid** frontend roles.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+HTML · CSS (Flexbox, responsive design) · JavaScript (DOM, fetch, async/await) · Vue · Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **[Weather App](https://lawrenebube.github.io/weather-app/)**: live weather from the Open-Meteo API, with city switching and error handling
+- **[To-Do App](https://lawrenebube.github.io/todo-app/)**: add, complete and delete tasks with a live counter
+
+## 📫 Contact
+- Email: lawrenciaebube@gmail.com
+- LinkedIn: [Ebube Ijeomah](https://www.linkedin.com/in/ebube-ijeomah-426a88223)
