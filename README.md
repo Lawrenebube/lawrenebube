@@ -1,6 +1,6 @@
 # Hi, I'm Ebube 👋
 
-Junior frontend developer based in Lagos, Nigeria. Electronic Engineering graduate (UNN).
+Junior frontend developer. Electronic Engineering graduate (UNN).
 I build clean, responsive web apps and I'm open to **remote or hybrid** frontend roles.
 
 ## 🛠 Skills
